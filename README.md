@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm MAAMERI ALI</h1>
-![Image alt text](.\Users\hp\Downloads\Telegram Desktop\20230503103915_IMG_8905.JPG)
 <h3 align="center">A full stack web developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-maameri02&label=Profile%20views&color=0e75b6&style=flat" alt="ali-maameri02" /> </p>
