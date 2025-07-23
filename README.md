@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React,artificiel intteligence in web**
+- 🌱 I’m currently learning **ReactNative,artificiel intteligence in we**
 
 - 💬 Ask me about **web developement ,arduino**
 
